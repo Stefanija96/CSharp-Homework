@@ -1,0 +1,13 @@
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\bin\Debug\netcoreapp3.1\Sum of Even.exe
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\bin\Debug\netcoreapp3.1\Sum of Even.deps.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\bin\Debug\netcoreapp3.1\Sum of Even.runtimeconfig.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\bin\Debug\netcoreapp3.1\Sum of Even.runtimeconfig.dev.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\bin\Debug\netcoreapp3.1\Sum of Even.dll
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\bin\Debug\netcoreapp3.1\Sum of Even.pdb
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.AssemblyInfo.cs
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.dll
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.pdb
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Sum of Even\obj\Debug\netcoreapp3.1\Sum of Even.genruntimeconfig.cache

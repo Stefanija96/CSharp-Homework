@@ -8,24 +8,38 @@ namespace Student_Group
         {
             //TASK 2
 
-            string[] studentG1 = new string[] { "Zdravko", "Petko", "Stanko", "Branko", "Trajko" };
+            string[] studentsG1 = new string[] { "Zdravko", "Petko", "Stanko", "Branko", "Trajko" };
 
-            string[] studentG2 = new string[] { "Aleksandra", "Veronika", "Ana", "Kristina", "Katerina" };
+            string[] studentsG2 = new string[] { "Aleksandra", "Veronika", "Ana", "Kristina", "Katerina" };
 
-            Console.WriteLine("Enter either 1 or 2");
+            while (true)
+            {
+                Console.Write("For the students from G1 enter 1, for the students for G2 enter 2: ");
+                string inputNum = Console.ReadLine();
 
-            int numberFromInput = int.Parse(Console.ReadLine());
-            if (numberFromInput == 1)
-            {
-                Console.WriteLine("The students in G1 are: " + studentG1[0] + "," + studentG1[1] + "," + studentG1[2] + "," + studentG1[3] + "," + studentG1[4]);
-            }
-            else if (numberFromInput == 2)
-            {
-                Console.WriteLine("The students in G2 are: " + studentG2[0] + "," + studentG2[1] + "," + studentG2[2] + "," + studentG2[3] + "," + studentG2[4]);
-            }
-            else
-            {
-                Console.WriteLine("You have entered a wrong number.");
+                bool parsedNum = int.TryParse(inputNum, out int num);
+
+                if (parsedNum && (num == 1 || num == 2))
+                {
+                    switch (num)
+                    {
+                        case 1:
+                            Console.WriteLine("The students in G1 are:");
+                            foreach (string student in studentsG1) Console.WriteLine(student);
+                            break;
+
+                        case 2:
+                            Console.WriteLine("The students in G2 are:");
+                            foreach (string student in studentsG2) Console.WriteLine(student);
+                            break;
+                    }
+                    break;
+                }
+                else
+                {
+                    Console.Write("Please enter valid input ");
+                    continue;
+                }
             }
         }
     }

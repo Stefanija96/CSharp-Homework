@@ -1,0 +1,13 @@
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\bin\Debug\netcoreapp3.1\Student Group.exe
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\bin\Debug\netcoreapp3.1\Student Group.deps.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\bin\Debug\netcoreapp3.1\Student Group.runtimeconfig.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\bin\Debug\netcoreapp3.1\Student Group.runtimeconfig.dev.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\bin\Debug\netcoreapp3.1\Student Group.dll
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\bin\Debug\netcoreapp3.1\Student Group.pdb
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.AssemblyInfo.cs
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.dll
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.pdb
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-3\Student Group\obj\Debug\netcoreapp3.1\Student Group.genruntimeconfig.cache
