@@ -8,13 +8,15 @@ namespace Task_2
         {
             //2. Write a Method that takes an integer minutes and converts it to seconds.
 
-            Console.WriteLine(minToSec());
 
-        }
-        static int minToSec()
-        {
             Console.WriteLine("Enter minutes: ");
             int min = int.Parse(Console.ReadLine());
+            Console.WriteLine(MinToSec(min));
+
+        }
+        static int MinToSec(int min)
+        {
+
             return min * 60;
         }
     }
