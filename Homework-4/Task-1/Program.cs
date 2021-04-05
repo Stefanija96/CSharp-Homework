@@ -7,8 +7,6 @@ namespace Task_1
         static void Main(string[] args)
         {
             //1. Create a Method that takes an age in years and returns the age in days.
-
-
             Console.WriteLine("Please enter your age");
             int age = int.Parse(Console.ReadLine());
             Console.WriteLine(CalculateAge(age));
@@ -16,9 +14,7 @@ namespace Task_1
         }
         public static int CalculateAge(int age)
         {
-
             return age * 365;
-
         }
     }
 }

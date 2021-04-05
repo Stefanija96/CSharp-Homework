@@ -23,6 +23,7 @@ namespace Student_Group
                 {
                     switch (num)
                     {
+
                         case 1:
                             Console.WriteLine("The students in G1 are:");
                             foreach (string student in studentsG1) Console.WriteLine(student);
