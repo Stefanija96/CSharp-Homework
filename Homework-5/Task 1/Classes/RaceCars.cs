@@ -8,7 +8,6 @@ namespace Task_1.Classes
     {
         public void RaceMethod(Car firstCar, Car secondCar)
         {
-
             if (firstCar.CalculateSpeed() > secondCar.CalculateSpeed())
             {
                 Console.WriteLine($"Car no. 1 was faster.");

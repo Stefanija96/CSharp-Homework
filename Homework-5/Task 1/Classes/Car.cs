@@ -14,13 +14,11 @@ namespace Task_1.Classes
         {
             Model = model;
             Speed = speed;
-           
         }
         public int CalculateSpeed()
         {
            int result= Driver.Skill * Speed;
             return result;
-           
         }
      
       
