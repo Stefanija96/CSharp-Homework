@@ -1,0 +1,13 @@
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\bin\Debug\netcoreapp3.1\Task-2.exe
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\bin\Debug\netcoreapp3.1\Task-2.deps.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\bin\Debug\netcoreapp3.1\Task-2.runtimeconfig.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\bin\Debug\netcoreapp3.1\Task-2.runtimeconfig.dev.json
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\bin\Debug\netcoreapp3.1\Task-2.dll
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\bin\Debug\netcoreapp3.1\Task-2.pdb
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.AssemblyInfo.cs
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.dll
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.pdb
+C:\Users\stefa\Desktop\CSharp-Homework\Homework-6\Task-2\obj\Debug\netcoreapp3.1\Task-2.genruntimeconfig.cache
