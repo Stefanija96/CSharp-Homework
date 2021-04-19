@@ -54,6 +54,7 @@ namespace Task_1
         public static void MaleBrownAnimals(List<Animal> animals)
         {
             List<Animal> maleBrownAnimals = animals.Where(animal => animal.Color == "brown" && animal.Gender == Gender.Male).ToList();
+            Console.WriteLine("All male brown animals: ");
             maleBrownAnimals.ForEach(animal =>
             {
                 Console.WriteLine(animal.Name);
@@ -62,7 +63,7 @@ namespace Task_1
         public static void AnimalNameLongerThan10Char(List<Animal> animals)
         {
             Animal longerThanTenChar = animals.Where(animal => animal.Name.Length > 10).First();
-            Console.WriteLine(longerThanTenChar.Name);
+            Console.WriteLine($"Animal which name is longer than 10 characters: {longerThanTenChar.Name}");
 
         }
     }

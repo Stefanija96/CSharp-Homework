@@ -107,9 +107,10 @@ namespace Task_2
 
             foreach (var person in femalesWithOddNumberOfAges)
             {
-                Console.WriteLine(person.LastName);
-
+                Console.WriteLine( person.LastName);
             }
+ 
+
         }
         public static void FindPeople(List<Person> people)
         {
